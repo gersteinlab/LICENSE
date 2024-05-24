@@ -1,10 +1,8 @@
-# LICENSE
 License file for inclusion in Gerstein Lab repositories.
 
-Create a file called LICENSE, and copy-paste the text below between "# START" 
-and "# END" into the file.
+Create a file called LICENSE, and copy-paste the text below into the file.
 
-# START
+# LICENSE
 
 “Commons Clause” License Condition v1.0
 
