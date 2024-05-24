@@ -1,6 +1,6 @@
 License file for inclusion in Gerstein Lab repositories.
 
-Instructions: Create a file called LICENSE, and copy-paste the text below into the file. Edit the year (YYYY). If you already have a LICENSE file in your repository, replace the contents with this one. Remember to edit to the proper year (YYYY).
+Instructions: Create a file called LICENSE, and copy-paste the text below into the file. Edit the year (YYYY). If you already have a LICENSE file in your repository, prepend the license with “Commons Clause” License Condition portion.
 
 # LICENSE
 
