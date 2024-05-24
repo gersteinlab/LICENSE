@@ -1,6 +1,6 @@
 License file for inclusion in Gerstein Lab repositories.
 
-Create a file called LICENSE, and copy-paste the text below into the file. Edit the year (YYYY).
+Instructions: Create a file called LICENSE, and copy-paste the text below into the file. Edit the year (YYYY).
 
 # LICENSE
 
