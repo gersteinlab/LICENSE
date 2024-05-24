@@ -4,7 +4,7 @@ Instructions: Create a file called LICENSE.md, and copy-paste the text below int
 
 # LICENSE
 
-“Commons Clause” License Condition v1.0
+“Commons Clause” License Condition
 
 The Software is provided to you by the Licensor under the LICENSE, as defined below, subject to the following condition.
 
