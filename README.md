@@ -1,6 +1,6 @@
 License file for inclusion in Gerstein Lab repositories.
 
-Instructions: Create a file called LICENSE.md, and copy-paste the text below into the file. Edit the year (YYYY). If you already have a LICENSE file in your repository, prepend the license with the “Commons Clause” License Condition portion.
+Instructions: Create a file called LICENSE.md, and copy-paste the text below into the file. 
 
 Academic Use Only License
 
