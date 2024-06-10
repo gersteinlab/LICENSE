@@ -7,25 +7,21 @@ Academic Use Only License
 1. Definitions:
 
 Software: Refers to the source code, documentation, and any other materials provided with this license.
-Academic Use: Use of the Software for educational, research, or non-commercial purposes within an academic institution or by individuals affiliated with such institutions.
-Commercial Use: Use of the Software for any activity intended to generate revenue, profit, or financial gain, or use within a for-profit organization.
+Academic User: User of the Software for educational, research, or non-commercial purposes within an academic institution or by individuals affiliated with such institutions.
+Commercial User: User of the Software for any activity intended to generate revenue, profit, or financial gain, or use within a for-profit organization.
 
 2. Grant of License:
 
-The copyright holder grants a non-exclusive, worldwide, royalty-free license to use the Software for Academic Use only, subject to the terms of this license.
+Access to our resources is currently available without charge to academic users, which includes students, educators, and researchers affiliated with accredited educational institutions such as universities, colleges, and research organizations. 
 
 3. Restrictions:
 
-No Commercial Use: You may not use the Software for Commercial Use without explicit written permission from the copyright holder.
+Commercial users, including businesses and for-profit entities, are required to contact us to negotiate and establish appropriate licensing terms. 
 
 4. Disclaimer of Warranty:
 
-The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the copyright holder or contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+We disclaim all liability for any use or misuse of these resources by academic users. These resources are provided to academics free of charge, with no warranty or guarantee of support, and no implication of any obligation or liability on our part for any outcomes resulting from their use.
 
-5. Termination:
+5. Miscellaneous:
 
-This license terminates automatically if you violate any of its terms.
-
-6. Miscellaneous:
-
-If any provision of this license is held to be invalid or unenforceable, such provision shall be struck from the license and the remaining provisions shall remain in full force and effect.
+The use of these resources by commercial users without our explicit agreement shall not be construed as an implied license. Furthermore, the license granted to academic users can be modified or revoked at any time, including the drafting and implementation of a completely new licensing agreement.
